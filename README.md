@@ -8,4 +8,4 @@ After the dataset is ready to use, I started to code the Sankey diagram. I reuse
 
 ![the final look](https://github.com/EmilyCheoh/Ramen_Rating/blob/master/diagram-01.png)
 
-My final visualization looks like this. One problem is that it looks really big that it cannot fit to the screen. I tried to resized my diragram, but maybe because there are too many brand names, I was unable to make it look smaller. 
+My final visualization looks like this, which shows that Nissin is the predominant ramen brand (and, interestingly, cup noodle was actually invented by the foudner of Nissin! ) There are several problems with my visualization. One  is that it looks really big that it cannot fit to the screen. I tried to resized my diragram, but maybe because there are too many brand names, I was unable to make it look smaller. The other one for the ratings, '5 stars' comes first, but followed by '3 stars', which is very counterintuitive. 
